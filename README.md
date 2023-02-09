@@ -1,4 +1,4 @@
-# GitHub Actions 101
+# GitHub Actions 101 (test)
 
 This repository contains two different projects that are not related to each other.
 
